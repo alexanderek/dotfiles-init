@@ -30,6 +30,8 @@ brew cask install 1password \
 #daisydisk \
 firefox \
 iterm2 \
+knockknock \
+netiquette \
 nrlquaker-winbox \
 teamviewer \
 transmission \
