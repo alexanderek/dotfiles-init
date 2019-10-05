@@ -9,6 +9,7 @@ brew tap caskroom/cask
 brew tap buo/cask-upgrade
 
 brew install ansible \
+antigen \
 dnscontrol \
 git \
 go \
