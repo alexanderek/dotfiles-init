@@ -32,7 +32,7 @@ firefox \
 iterm2 \
 knockknock \
 netiquette \
-nrlquaker-winbox \
+#nrlquaker-winbox \
 teamviewer \
 transmission \
 viscosity \
