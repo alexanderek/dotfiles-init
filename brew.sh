@@ -26,19 +26,19 @@ zsh-autosuggestions \
 zsh-syntax-highlighting
 
 brew cask install 1password \
-#appcleaner \
-#daisydisk \
 firefox \
 iterm2 \
 knockknock \
 netiquette \
-#nrlquaker-winbox \
 teamviewer \
 transmission \
 viscosity \
 visual-studio-code \
 vlc
-#vmware-fusion
+#appcleaner \
+#daisydisk \
+#nrlquaker-winbox \
+#vmware-fusion \
 
 mas install 1153157709 # Speedtest
 mas install 1440147259 # AdGuard for Safari
