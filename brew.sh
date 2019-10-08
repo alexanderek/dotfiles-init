@@ -37,12 +37,10 @@ visual-studio-code \
 vlc
 #appcleaner \
 #daisydisk \
-#nrlquaker-winbox \
 #vmware-fusion \
 
-mas install 1153157709 # Speedtest
 mas install 1440147259 # AdGuard for Safari
 mas install 1451685025 # WireGuard
-mas install 425424353 # The Unarchiver
+#mas install 425424353 # The Unarchiver
 mas install 524141863 # Jump Desktop
 mas install 747648890 # Telegram
