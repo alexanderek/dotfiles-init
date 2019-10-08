@@ -21,9 +21,9 @@ python \
 terraform \
 tmux \
 wget \
-zsh \
 zsh-autosuggestions \
 zsh-syntax-highlighting
+#zsh
 
 brew cask install 1password \
 firefox \
