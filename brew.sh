@@ -5,7 +5,7 @@ if [[ -z "$(which brew)" ]]
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
-brew tap caskroom/cask
+brew tap homebrew/cask-cask
 brew tap buo/cask-upgrade
 
 brew install ansible \
