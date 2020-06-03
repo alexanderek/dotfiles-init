@@ -26,15 +26,16 @@ zsh-syntax-highlighting
 #zsh
 
 brew cask install 1password \
-firefox \
+google-chrome \
 iterm2 \
-knockknock \
-netiquette \
+#knockknock \
+#netiquette \
+nrlquaker-winbox \
 teamviewer \
 transmission \
 viscosity \
 visual-studio-code \
-vlc
+iina
 #appcleaner \
 #daisydisk \
 #vmware-fusion \
