@@ -12,25 +12,26 @@ brew install ansible \
 antigen \
 dnscontrol \
 git \
-go \
+#go \
 iperf3 \
 mas \
 mtr \
 nmap \
 python \
 terraform \
-tmux \
 wget \
 zsh-autosuggestions \
 zsh-syntax-highlighting
 #zsh
 
+# cask
 brew cask install 1password \
 google-chrome \
 iterm2 \
 #knockknock \
 #netiquette \
 nrlquaker-winbox \
+spotify \
 teamviewer \
 transmission \
 viscosity \
@@ -40,8 +41,13 @@ iina
 #daisydisk \
 #vmware-fusion \
 
+brew cu pin spotify ; brew cu pin nrlquaker-winbox
+
+# mas-cli
 mas install 1440147259 # AdGuard for Safari
 mas install 1451685025 # WireGuard
 #mas install 425424353 # The Unarchiver
 mas install 524141863 # Jump Desktop
 mas install 747648890 # Telegram
+mask install 1474335294 # GoodLinks
+#mask install 1032670789 # News Explorer
