@@ -18,7 +18,7 @@ mas \
 mtr \
 nmap \
 python \
-terraform \
+#terraform \
 wget \
 zsh-autosuggestions \
 zsh-syntax-highlighting
@@ -26,22 +26,22 @@ zsh-syntax-highlighting
 
 # cask
 brew cask install 1password \
-google-chrome \
+appcleaner \
+#daisydisk \
+firefox \
+iina \
 iterm2 \
-#knockknock \
-#netiquette \
+netiquette \
 nrlquaker-winbox \
-spotify \
-teamviewer \
+#spotify \
 transmission \
 viscosity \
 visual-studio-code \
-iina
-#appcleaner \
-#daisydisk \
 #vmware-fusion \
+zoomus
 
-brew cu pin spotify ; brew cu pin nrlquaker-winbox
+#brew cu pin spotify
+brew cu pin nrlquaker-winbox
 
 # mas-cli
 mas install 1440147259 # AdGuard for Safari
