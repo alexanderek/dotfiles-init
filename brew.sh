@@ -22,7 +22,7 @@ zsh-syntax-highlighting
 
 
 # cask
-brew cask install 1password \
+brew install --cask 1password \
 anydesk \
 appcleaner \
 iina \
