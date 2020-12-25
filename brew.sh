@@ -31,7 +31,7 @@ nrlquaker-winbox \
 transmission \
 viscosity \
 visual-studio-code \
-zoomus
+zoom
 
 #brew cu pin spotify
 brew cu pin nrlquaker-winbox
