@@ -25,8 +25,8 @@ zsh-syntax-highlighting
 brew install --cask 1password \
 anydesk \
 appcleaner \
-iina \
-iterm2 \
+#iina \
+#iterm2 \
 nrlquaker-winbox \
 transmission \
 viscosity \
@@ -42,4 +42,3 @@ mas install 1451685025 # WireGuard
 mas install 524141863 # Jump Desktop
 mas install 747648890 # Telegram
 mas install 1474335294 # GoodLinks
-mas install 1032670789 # News Explorer
