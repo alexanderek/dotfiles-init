@@ -25,13 +25,13 @@ zsh-syntax-highlighting
 brew install --cask 1password \
 anydesk \
 appcleaner \
-iterm2 \
 nrlquaker-winbox \
 transmission \
 viscosity \
 visual-studio-code \
 zoom
 #iina
+#iterm2
 
 #brew cu pin spotify
 brew cu pin nrlquaker-winbox
